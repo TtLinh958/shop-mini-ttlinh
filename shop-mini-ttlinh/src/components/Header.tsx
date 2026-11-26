@@ -3,7 +3,7 @@ export default function Header() {
     <header className="header">
       <div className="container header-inner">
         <a href="/" className="logo">
-          Shop<span>Mini Ttlinh</span>
+          ShopMini_<span>Ttlinh</span>
         </a>
         <nav className="nav">
           <a href="/">Trang chủ</a>
